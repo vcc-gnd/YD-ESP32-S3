@@ -163,9 +163,9 @@ https://www.espressif.com.cn/en/home
 如果计划使用Ardiuno编程资料链接： https://docs.espressif.com/projects/arduino-esp32/en/latest/getting_started.html#about-arduino-esp32 
 
 如果计划使用micropython语言编程资料链接如下（注意快速入门看ESP32就行）： https://docs.micropython.org/en/latest/esp32/quickref.html
-###### CH340芯片的驱动官方链接：
+###### 山寨/假冒/劣质仿造的问题：
 
-山寨我们源地（YD）开发板有很多，以深圳华强北最为猖獗，山寨者惯用的形式为直接打磨我们的开发板进行拍照抄板，以致山寨的产品隐患重重。现总结购买山寨板的危害（隐患）。
+寨/假冒/劣质仿造我们源地（YD）开发板有很多，以深圳华强北最为猖獗，山寨者惯用的形式为直接打磨我们的开发板进行拍照抄板，以致山寨的产品隐患重重。现总结购买山寨板的危害（隐患）。
 以YD-ESP32（ESP32/S2/S3/C3）系列为例：
 
 1、山寨厂家为进一步追求利润，往往使用翻新，非官方器件，任意替换为同封装的廉价型号，乱选型，图利润
